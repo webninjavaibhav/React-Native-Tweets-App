@@ -2,7 +2,7 @@
 
 Steps to setup project -
 
-- run command `npx expo install`
+- run command `npm install`
 - run command `npx expo start -c`
 - Enter `i` in same command line to open app in ios
 - Enter `a` in same command line to open app in android
