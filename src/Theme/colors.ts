@@ -1,0 +1,58 @@
+export const Colors = {
+  transparent: "#FFFFFF00",
+  gray: "#C9C9C9",
+  gray2: "#959595",
+  gray3: "#797979",
+  gray4: "#2E2F34",
+  grayDark: "#636366",
+  BlueGrey: "#202124",
+  black: "#000000",
+  black2: "#121318",
+  black3: "#1E1F24",
+  nightGray: "#404040",
+  lightBlack: "#232323",
+  white: "#FFFFFF",
+  whiteDisabled: "#ffffff55",
+  darkDisabled: "#ffffff4d",
+  green: "#1ED760",
+  green2: "#1BB752",
+  red: "#E25241",
+  error: "#E25241",
+  yellow: "#F9A000",
+  errorIcon: "#F15E6C",
+  ocean_dark: "#5096FF",
+  blue: "#1F78FF",
+  Warning: "#E1B000",
+  dark: {
+    Icons: {
+      icon: "#65666A",
+      activeIcon: "#FFFFFF",
+      blue: "#1F78FF",
+      red: "#E91429",
+      green: "#1ED760",
+    },
+    BottombarIcon: {
+      backgroundColor: "#010101",
+    },
+    Divider: "#ffffff33",
+    Text: {
+      black: "#000",
+    },
+  },
+  light: {
+    Icons: {
+      icon: "#65666A",
+      activeIcon: "#FFFFFF",
+      blue: "#3988FF",
+      red: "#E91429",
+      green: "#1ED760",
+    },
+    BottombarIcon: {
+      backgroundColor: "#010101",
+    },
+    Divider: "#ffffff33",
+    Text: {
+      black: "#000",
+    },
+  },
+};
